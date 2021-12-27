@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cocoa-bot",
+  "private_key_id": "7ff05b710a521052f54f7c7057ac2e4979e93953",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuqUy/xfpWhCrg\nigdmZboBde39KGIGnfozS8pfHoqWOsu9mcNROgfxMKSC1dRIOnx/h+GocUUKgBcb\njAAnPCzC95WhvXlDy+Eg0sfn2ENdlL32H7HeE4Zm1m3iyhNqnEQMncy0tKqjza/6\nY2DNN1za4PpbHVFN4U01BJEnXn57PfWO6hDH9EaE8mPrXFG4VMRBYx/1hQS1HF+j\nmtWjrswX3kOOPMsLHb3Cu66LpLvlWGRwjVU3Ku8KHMbZrcEpnmRwPTYVxbNJY9li\nDt3+3DrjR5fZuS/QmS5YfzPfS/rA+cUNgCK3wglvYN6qdWjR8tfQnCYtYQ+peoLt\n70FEttCVAgMBAAECggEAGQCgPXWUO+1IjAMGQyi9wzbD/jDZM3RK3Cv1yL8A/Ldm\n8fnAZXDGsUaSzi3Y6QwCRWlIqsmoJfQnGqjkXrl0+OXjNBeA8+0MCZxSxIQHRK6l\nsMVhu1YVL8RzT3s441KCRUITiyyvnqozjkbKlSXfM2/wNrnQKTNez3+bXcTfmzmL\nM44f0/i0RxKYb9cZAhzAGWVRxuUbTJg4UgXZSUCR+s8pYH7+96IAdJUOBc5HRic0\nK7xG7SsOaIQ5Nb9xhNBGQ9JrkoCFGBwzeaLbENTPOfZXGSQ+SJv74SMHsA53V2ai\nJjfxR3aSi1/rgihrSeX6hJs7c9nJ4JGHA8obastiAwKBgQDhRmm4mPTwcgszrM8T\nsFCP9jgtRo2aWIYPlPw5t8MqY0ajyyTfCT7G4lCUOp8wDRejCon9+ZggrFh6ti3B\nJPw7GSEWDqFIegdN/+aYBOv59CLlFe1X91aIelM6f4Uu8oyZfWJLOJuFS9i+m4Gx\nV8nHTu3zFtbsRM2ZVn4MVU/gJwKBgQDGe68sZdTNLWOpR+kVVuzvicSgu4WiSExW\nhIZ6b85Yd+oDq/9yH4GcTmo9iP6H+MRUAOnSg7CWrwMwgrdmi3fEkGG9MZz1Ti/Y\nRWaQ1cydQTyZyIx0rOWVV4Jbt4Cg4ugWIemZdedpvUWZ0+47u3Pjx5W4iVihzsJY\nP5YDJr9C4wKBgDv0Y3qvqrC7iWOtYEdbK3XFD9ps5o7ndHZ9LkumLpj/ZvN8w0lg\nyoZgARYSK/+73EiWK3eej/BSLhIqni7DSyXnYDjgl+gUIhGOQ6690Jfrc8YIeexp\ndWxJMhFlkuqVvvmytxBR9oIZV4wTEwdB1//lb8q8j2K+RQHEVTOvGN0NAoGAW9N9\nB51VBlepc/fA7g55L5kdTv9yo9Gu/5fwX1S6slNIAMriM3pADIB6xl1K5L1Cl1qU\n0r/6QrxVTWwsTVTY5CeoEE+TvimeGQCCox9Gurojv0H5OUGENcN2m9gZulU/6n1m\nBYl2toTKXpCd9ySSSR9dNTLVvoZZg1pnnK2gbuECgYAQ52l7oK+CPk4hqNUHgnSB\nBu2oDitFI7tR2hZ58mIQRK+6vnKp3v+0dx72wwELlX8bWc+GC8CQw8X1WB/uWMhJ\nblc7UANzQxm5qF7VT07WLTZGw6/KLqW/2B2OO+4tykHznP3FsrS6cnsLLzX+yXyx\nKlvHOVXy3tdINfVBQ8/JSQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cocoa-web-bot@cocoa-bot.iam.gserviceaccount.com",
+  "client_id": "117667383834283403445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cocoa-web-bot%40cocoa-bot.iam.gserviceaccount.com"
+}

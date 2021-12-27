@@ -1,0 +1,1 @@
+web: uvicorn cocoa.server:app --port=${PORT:-5000} --host=0.0.0.0 --workers 1

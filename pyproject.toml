@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "cocoa"
+version = "0.1.0"
+description = "ConvAI Bot Backend"
+authors = ["Team Enigma"]
+
+[tool.poetry.dependencies]
+python = "3.9.9"
+discord = "^1.7.3"
+requests = "^2.26.0"
+pydantic = "^1.8.2"
+fastapi = "^0.70.0"
+uvicorn = "^0.15.0"
+google-cloud-dialogflow-cx = "^1.7.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+isort = "^5.10.1"
+black = "^21.10b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+cocoa = "cocoa:server.run"
