@@ -1,6 +1,10 @@
 # COCOA
 > This is the backend for our COCOA bot.
 
+## Product Features
+- [Product Demo](https://www.youtube.com/watch?v=7q5QhEqZHBw&ab_channel=RobertKang)
+- [Product Walkthrough](https://docs.google.com/presentation/d/1NwLBlXiXcbnBE8y7UPCaglUemoXy7SG_ZJJBgGriaLM/edit?usp=sharing)
+
 ## Installation Instructions
 
 To install this project, first install [poetry](https://python-poetry.org/docs/) on your machine.
