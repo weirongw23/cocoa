@@ -12,7 +12,8 @@
 - **CI/CD:** Heroku
 
 ## Architecture Design
-**Overall Design**
+**System Architecture**
+![System Architecture](https://github.com/weirongw23/cocoa/blob/main/sys-architecture.png)
 
 
 ## Installation Instructions
