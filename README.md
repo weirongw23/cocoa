@@ -15,6 +15,8 @@
 **System Architecture**
 ![System Architecture](https://github.com/weirongw23/cocoa/blob/main/sys-architecture.png)
 
+**Backend Services**
+![Backend Services](https://github.com/weirongw23/cocoa/blob/main/backend-services.png)
 
 ## Installation Instructions
 
