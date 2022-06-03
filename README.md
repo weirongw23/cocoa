@@ -7,7 +7,7 @@
 
 ## Tech Stack
 - **Web:** Python Backend (FastAPI, Pydantic), Next.js and Tailwind CSS Frontend
-- **NLP:** Dialogflow
+- **NLP and Entity Recognition:** Dialogflow
 - **APIs:** Spotify, TMDB, Yelp
 - **CI/CD:** Heroku
 
