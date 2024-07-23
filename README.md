@@ -12,6 +12,9 @@
 - **CI/CD:** Heroku
 
 ## Architecture Design
+**Cocoa's Conversational AI Architecture**
+![Cocoa's Conversational AI Architecture](https://github.com/weirongw23/cocoa/blob/main/cocoa-architecture.png)
+
 **System Architecture**
 ![System Architecture](https://github.com/weirongw23/cocoa/blob/main/sys-architecture.png)
 
